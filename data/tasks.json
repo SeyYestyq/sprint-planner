@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "developer_id": 1,
+        "title": "Настройка FastAPI + Async SQLAlchemy",
+        "estimated_hours": 36.0
+    },
+    {
+        "id": 2,
+        "developer_id": 1,
+        "title": "Создание React-компонента",
+        "estimated_hours": 20.0
+    }
+]
